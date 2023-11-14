@@ -1,0 +1,42 @@
+{
+  "Clientes": {
+    "correo": "orquisga@gmai.com",
+    "direccion": "Cahabon",
+    "idcliente": 1,
+    "nombre": "Orquidea Garcia",
+    "telefono": "3578-9878"
+  },
+  "Factura": {
+    "fecha": "2023-11-14",
+    "idfactura": 1,
+    "idorden": 1,
+    "total": 63.5
+  },
+  "Ordenes": {
+    "fecha": "2023-11-14",
+    "idcliente": 1,
+    "idorden": 1,
+    "total": 63.5
+  },
+  "Productos": {
+    "descripcion": "six de gallo",
+    "idproducto": 1,
+    "nombre": "Cerveza Gallo",
+    "precio": 63.5,
+    "stock": 45
+  },
+  "Proveedor": {
+    "correo": "julitostienda@gmail.com",
+    "direccion": "Aldea Caquigual",
+    "idproveedor": 1,
+    "nombre": "Julitos",
+    "telefono": "4510-6179"
+  },
+  "detalleOrden": {
+    "cantidad": 2,
+    "iddetalle": 1,
+    "idorden": 1,
+    "idproducto": 1,
+    "precio Unitario": 63.5
+  }
+}
